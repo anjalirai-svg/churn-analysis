@@ -199,7 +199,4 @@ jupyter notebook notebooks/churn_analysis.ipynb
 **Anjali Rai**
 B.Tech Computer Science (IoT) — ABES Institute of Technology, Ghaziabad
 📧 anjali.maykhargpur@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/anjalirai06) | [GitHub](https://github.com/anjalirai-svg)
-
----
-⭐ Star this repo if you found it useful!
+🔗 [LinkedIn](https://linkedin.com/in/anjalirai06)
